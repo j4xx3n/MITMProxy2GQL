@@ -1,5 +1,6 @@
-# MITMProxy2GQL
-Proxy that captures GQL queries and parses them into a schema
+<img width="537" height="128" alt="ascii-art-text" src="https://github.com/user-attachments/assets/31cdcfd1-d3c0-4216-ac41-fce93b1eb5b7" />
+
+MITMProxy2GQL is a proxy that captures GQL queries and parses them into a schema
 
 
 ## How to Install **MITMProxy2GQL**
